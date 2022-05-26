@@ -20,3 +20,15 @@ Day002 - 2022.05.25
 - f-string
   - `f"this is my string and {varaible}"`
 - Tip Calculator 🏆
+
+```
+Day003 - 2022.05.26
+```
+
+- Conditional
+- Nested if/else
+- Multiple if
+- Logical Operators
+  - `lower()`
+  - `count()`
+- Treasure Island 🏆
