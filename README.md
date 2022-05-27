@@ -32,3 +32,17 @@ Day003 - 2022.05.26
   - `lower()`
   - `count()`
 - Treasure Island 🏆
+
+```
+Day004 - 2022.05.27
+```
+
+- random
+- module
+- list
+  - `append()`
+  - `extend()`
+  - `split()`
+  - `choice()`
+- index error & nested lists
+- Rock-Paper-Scissors 🏆
