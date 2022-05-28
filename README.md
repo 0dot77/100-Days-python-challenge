@@ -46,3 +46,13 @@ Day004 - 2022.05.27
   - `choice()`
 - index error & nested lists
 - Rock-Paper-Scissors 🏆
+
+```
+Day005 - 2022.05.28
+```
+
+- Loops with Lists
+- For loop with Range
+  - max()
+  - min()
+- Password Generator 🏆
