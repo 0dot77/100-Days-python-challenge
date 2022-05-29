@@ -46,8 +46,8 @@ print(f"Hard version : {''.join(hard_version)}")
 # - 루프에 사용하는 값을 꼭 사용하지 않아도 된다. (반복을 도는 횟수를 저장하는 값)
 # - 사용해야 한다는 강박이 랜덤한 값을 추출하는 배열의 범위를 정하게 했다.
 
-""" 선생님 풀이
-"""
+# 선생님 풀이
+
 # password = ""
 
 # for char in range(1, nr_letters + 1):

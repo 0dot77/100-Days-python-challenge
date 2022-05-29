@@ -56,3 +56,13 @@ Day005 - 2022.05.28
   - max()
   - min()
 - Password Generator 🏆
+
+```
+Day006 - 2022.05.29
+```
+
+- def functions
+- indentation
+- while loops
+- for and while
+- Reeborg's World 🏆
