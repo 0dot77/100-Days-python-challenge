@@ -66,3 +66,9 @@ Day006 - 2022.05.29
 - while loops
 - for and while
 - Reeborg's World 🏆
+
+```
+Day007 - 2022.05.30
+```
+
+- Hang man Project
