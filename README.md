@@ -72,3 +72,10 @@ Day007 - 2022.05.30
 ```
 
 - Hang man Project
+
+```
+Day008 - 2022.05.31
+```
+
+- More Functions
+-
