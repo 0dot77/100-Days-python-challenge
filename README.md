@@ -71,11 +71,22 @@ Day006 - 2022.05.29
 Day007 - 2022.05.30
 ```
 
-- Hang man Project
+- Hang man Project 🏆
 
 ```
 Day008 - 2022.05.31
 ```
 
 - More Functions
+- ceil()
+- Caesar-Cipher 🏆
+
+```
+Day009 - 2022.06.02
+```
+
 -
+
+```
+Day010 - 2022.06.02
+```
