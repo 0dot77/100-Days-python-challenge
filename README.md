@@ -85,8 +85,15 @@ Day008 - 2022.05.31
 Day009 - 2022.06.02
 ```
 
--
+- Dictionaries
+- Nesting list, dict
+- Blind-Acution 🏆
 
 ```
 Day010 - 2022.06.02
 ```
+
+- function with outputs
+  - return
+- .title()
+- Calculator 🏆
