@@ -103,3 +103,22 @@ Day011 - 2022.06.03
 ```
 
 - Blackjack Capston Project 🏆
+
+```
+Day012 - 2022.06.07
+```
+
+- namespace
+- block scope
+
+```
+Day013 - 2022.06.08
+```
+
+- debugging
+
+```
+Day014 - 2022.06.09
+```
+
+- Higher-Lower Game 🏆
