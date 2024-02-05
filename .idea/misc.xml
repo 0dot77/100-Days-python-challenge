@@ -7,5 +7,5 @@
     <option name="pathToExecutable" value="/opt/homebrew/bin/black" />
     <option name="sdkUUID" value="a79c3e59-bb46-4d0d-9a02-d10de24e1acc" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/opt/anaconda3" project-jdk-type="Python SDK" />
 </project>
